@@ -1,0 +1,1 @@
+defualt_app_config = 'images.apps.ImagesConfig'
